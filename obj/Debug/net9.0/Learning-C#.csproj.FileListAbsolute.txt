@@ -1,0 +1,15 @@
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/bin/Debug/net9.0/Learning-C#
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/bin/Debug/net9.0/Learning-C#.deps.json
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/bin/Debug/net9.0/Learning-C#.runtimeconfig.json
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/bin/Debug/net9.0/Learning-C#.dll
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/bin/Debug/net9.0/Learning-C#.pdb
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.AssemblyInfoInputs.cache
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.AssemblyInfo.cs
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.csproj.CoreCompileInputs.cache
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.sourcelink.json
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.dll
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/refint/Learning-C#.dll
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.pdb
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/Learning-C#.genruntimeconfig.cache
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/obj/Debug/net9.0/ref/Learning-C#.dll
