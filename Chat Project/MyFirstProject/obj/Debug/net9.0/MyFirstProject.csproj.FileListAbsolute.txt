@@ -1,0 +1,15 @@
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/bin/Debug/net9.0/MyFirstProject
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/bin/Debug/net9.0/MyFirstProject.deps.json
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/bin/Debug/net9.0/MyFirstProject.runtimeconfig.json
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/bin/Debug/net9.0/MyFirstProject.dll
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/bin/Debug/net9.0/MyFirstProject.pdb
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.AssemblyInfo.cs
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.sourcelink.json
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.dll
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/refint/MyFirstProject.dll
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.pdb
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/MyFirstProject.genruntimeconfig.cache
+/Users/calvingaiennie/Documents/GitHub/Learning-C#/Chat Project/MyFirstProject/obj/Debug/net9.0/ref/MyFirstProject.dll
